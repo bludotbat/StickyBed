@@ -1,0 +1,7 @@
+name: StickyBed
+version: '${project.version}'
+main: bluiscool.stickybed.StickyBed
+api-version: 1.17
+prefix: StickyBed
+authors: [ blu ]
+website: bluiscool.dev
